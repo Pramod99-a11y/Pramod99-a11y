@@ -22,13 +22,13 @@ Welcome! I’m a **Technical Writer & Senior Engineer** with **5+ years of exper
 ## 🛠 **Software & Tools for Technical Writing**  
 | Category | Tools & Technologies |
 |----------|---------------------|
-| 📖 **Documentation** | Arbortext Editor, Windchill, DITA XML, S1000D |
-| ✍️ **Content Management** | MadCap Flare, Adobe FrameMaker, Paligo |
+| 📖 **Documentation** | Arbortext Editor, Windchill, DITA XML|
+| ✍️ **Content Management** | MadCap Flare, Adobe FrameMaker |
 | 🏗 **API Documentation** | Swagger, Postman, Redocly, Markdown |
 | 🌎 **Translation & Localization** | SDL Trados, MemoQ, Smartcat |
 | 🎓 **Collaboration & Workflow** | Confluence, Jira, SharePoint, MS Teams |
 | 🔍 **Editing & Proofing** | Grammarly, PerfectIt, Hemingway Editor |
-| 💾 **Version Control** | GitHub, Git, Bitbucket |
+| 💾 **Version Control** | GitHub, Git |
 
 ---
 
@@ -52,14 +52,14 @@ Welcome! I’m a **Technical Writer & Senior Engineer** with **5+ years of exper
 ✦ Improved publication accuracy through CMS enhancements  
 
 🔹 **Technical Author | GGS (Client: John Deere) (2019–2021)**  
-✦ Authored **spare part manuals, maintenance guides, and installation instructions**  
+✦ Authored **service manuals, maintenance guides, and installation instructions**  
 ✦ Conducted training to improve technical writing standards  
 
 ---
 
 ## 📬 **Let’s Connect**  
 🚀 I’m always open to discussions, collaborations, and knowledge-sharing!  
-🔗 **LinkedIn:** [linkedin.com/in/example](https://linkedin.com/in/example) | 📧 **Email:** example@email.com  
+🔗 **LinkedIn:**  (www.linkedin.com/in/pramod-k-036210148) | 📧 **Email:** kanawadepramod98@email.com  
 
 ---
 ⭐ **"Great documentation isn’t just written—it’s engineered for clarity."**  
