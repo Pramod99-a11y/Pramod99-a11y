@@ -1,5 +1,3 @@
- # **Hi 👋, I'm Pramod Kanawade Technical Writer**
-
 # 📝 **Technical Writer | Content Strategist | Documentation Expert**
 
 ![Documentation Master](https://img.shields.io/badge/Documentation-Mastery-blue)  
